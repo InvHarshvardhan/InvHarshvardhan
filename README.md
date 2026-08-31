@@ -1,4 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=25&pause=1000&color=0B9231&center=true&multiline=true&width=435&lines=%22The+Force%2C+Force+Bends+Reality%22)](https://git.io/typing-svg)
+
+(https://github-stats-extended.vercel.app/api?username=InvHarshvardhan)](https://github.com/stats-organization/github-stats-extended)
+
+
 <h1 align="center">Hi 👋, I'm Harshvardhan Singh</h1>
 <h3 align="center">A obssessed core JAVA developer from India</h3>
 
