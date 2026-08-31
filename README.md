@@ -1,1 +1,2 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=15&pause=1000&color=0B9231&center=true&multiline=true&width=435&lines=Hi%2C+i'm+Harshvardhan+Singh)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=0B9231&center=true&multiline=true&width=435&lines=%22Be+The+Force%2C+Force+Bends+Reality%22;Hi%2C+i'm+Harshvardhan+Singh)](https://git.io/typing-svg)
