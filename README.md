@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Singh</h1>
 <h3 align="center">A obssessed core JAVA developer from India</h3>
 
-- 🔭 I’m currently working on [FeedShaper,ARGUS ,Banking Management System](<Private>)
+- 🔭 I’m currently working on [FeedShaper,ARGUS,Banking Management System](<Private>)
 
 - 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHM**
 
